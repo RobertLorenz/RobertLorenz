@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobertLorenz
 - 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning React.js, Node.js, MongoDB and Git
-- 👨‍🎓 I'm currenty studying at University of Szeged 
+- 🌱 Currently learning React.js, Node.js, MongoDB and Git
+- 👨‍🎓 Studying at University of Szeged 
 - 👨‍💻 And in the mean time I want to start working as a junior developer.
