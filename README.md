@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RobertLorenz
 - 🌱 Currently learning React.js, and Firebase
 - 👨‍🎓 Studying at University of Szeged 
-- 👨‍💻 Improving my skills as a front-end developer
+- 👨‍💻 Improving my skills as a frontend developer
