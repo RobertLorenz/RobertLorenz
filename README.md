@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RobertLorenz
 - 🌱 I'm a junior frontend developer 
-- 👨‍🎓 Studying at University of Szeged 
-- 👨‍💻 Working at WebOrbit Informatics Ltd.
+- 👨‍🎓 Graduated at University of Szeged 
+- 👨‍💻 Working at WebOrbit Informatics Ltd. as a front-end developer
