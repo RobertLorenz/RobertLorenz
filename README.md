@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RobertLorenz
 - 🌱 I'm a front-end developer 
 - 👨‍🎓 Graduated at University of Szeged 
-- 👨‍💻 Working at Mozaik Education 
+- 👨‍💻 Working at CAS Software Kft.
